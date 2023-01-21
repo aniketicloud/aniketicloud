@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DeLaval](www.delaval.com)
 
-- 🌱 I’m currently learning **React, Remix, Vue, Node**
+- 🌱 I’m currently working on **React, Remix, Vue, Node**
 
 - 👨‍💻 All of my projects are available at [https://aniketicloud.vercel.app/](https://aniketicloud.vercel.app/)
 
