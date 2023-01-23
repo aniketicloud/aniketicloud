@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate UI developer</h3>
 
-- 🔭 I’m currently working on [DeLaval](www.delaval.com)
+- 🔭 I’m currently working with [DeLaval](www.delaval.com) client.
 
 - 🌱 I’m currently working on **React, Remix, Vue, Node**
 
