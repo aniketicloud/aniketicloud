@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate UI developer</h3>
 
-- 🔭 I’m currently working with [John Deere](www.deere.com) client.
+- 🔭 I’m currently working with [John Deere](https://www.deere.com).
 
 - 🌱 I’m currently working on **React, Next, Vue, Node, Docker, Playwright**
 
