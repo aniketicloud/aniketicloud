@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate UI developer</h3>
 
-- 🔭 I’m currently working with [DeLaval](www.delaval.com) client.
+- 🔭 I’m currently working with [John Deere](www.deere.com) client.
 
-- 🌱 I’m currently working on **React, Remix, Vue, Node**
+- 🌱 I’m currently working on **React, Next, Vue, Node, Docker, Playwright**
 
 - 👨‍💻 All of my projects are available at [https://aniketicloud.vercel.app/](https://aniketicloud.vercel.app/)
 
